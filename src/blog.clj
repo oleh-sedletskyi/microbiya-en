@@ -15,24 +15,29 @@
 (def en-formatter
   (t/formatter "d MMMM yyyy" (Locale. "en")))
 
+(defn quoteReplacement
+  "Quotes replacement text to escape possible regex group references `$`"
+  [s]
+  (java.util.regex.Matcher/quoteReplacement s))
+
 ;; metadata in Markdown
 ;; https://quarto.org/docs/authoring/front-matter.html
 (defn render-post-html [{:keys [metadata] :as post}]
   (let [template (slurp "template/post.html")
         updated (-> template
-                    (str/replace #"CONTENT-TO-REPLACE" (:html post))
+                    (str/replace #"CONTENT-TO-REPLACE" (-> (:html post) (quoteReplacement)))
                     (str/replace #"DATE-TO-REPLACE" (->> (:created metadata)
                                                          t/date
                                                          (t/format en-formatter)))
-                    (str/replace #"DESCRIPTION-TO-REPLACE" (:description metadata))
-                    (str/replace #"TITLE-TO-REPLACE" (:title metadata))
+                    (str/replace #"DESCRIPTION-TO-REPLACE" (-> (:description metadata) (quoteReplacement)))
+                    (str/replace #"TITLE-TO-REPLACE" (-> (:title metadata) (quoteReplacement)))
                     (str/replace #"KEYWORDS-TO-REPLACE" (->> (:keywords metadata)
-                                                             (str/join ","))))
+                                                             (str/join ",")
+                                                             (quoteReplacement))))
         html-file (-> (get-in post [:metadata :md-path])
                       (file/file-path->name "html"))
         output-file (str "public/posts/" html-file)
         relative-file-path (str "posts/" html-file)]
-    ;; TODO: create only once
     (file/make-parents-dirs output-file)
     (spit output-file updated)
     relative-file-path))
@@ -65,7 +70,6 @@
                       (file/file-path->name "html"))
         output-file (str "public/" html-file)]
     (println (str " " output-file))
-    ;; TODO: create only once
     (file/make-parents-dirs output-file)
     (spit output-file updated)))
 
