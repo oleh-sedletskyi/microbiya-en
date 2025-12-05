@@ -6,6 +6,18 @@ alias: what-about-eggs
 date: 14 December 2018
 images:
 - '![](../images/egg.jpg)'
+keywords:
+- eggs hygiene
+- how to store eggs
+- fresh eggs selection
+- salmonellosis prevention
+- free-range eggs benefits
+- egg handling best practices
+- storing eggs in refrigerator
+- reducing surface bacteria on eggs
+- kitchen food safety eggs
+- eggs shell hygiene
+description: Concise guidance on egg hygiene, selection, storage, and handling to prevent contamination and ensure safe preparation in the kitchen.
 ---
 
 # What about eggs?

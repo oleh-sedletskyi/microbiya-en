@@ -80,6 +80,7 @@
 
 (defn add-keywords-description! [{:keys [metadata markdown]}]
   (let [md-file-path (:md-path metadata)
+        _ (prn "adding keywords and description to: " md-file-path)
         frontmatter (str "---\n"
                          (yaml/generate-string
                           (-> metadata
@@ -101,7 +102,7 @@
 
 (defn add-metadata
   [posts-path]
-  (let [;; posts-path "content/post/"
+  (let [;; posts-path "content/posts/"
         files  (file/list-dir-files posts-path)]
     (->> files
          (map parse-md-file)
@@ -110,7 +111,7 @@
 
 (defn process-posts
   [{:keys [local?]}]
-  (let [posts-path "content/post/"
+  (let [posts-path "content/posts/"
         ;; call ai api only locally (using token)
         _ (when local? (add-metadata posts-path))
         files (file/list-dir-files posts-path)

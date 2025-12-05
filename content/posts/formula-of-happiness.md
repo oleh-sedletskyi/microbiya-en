@@ -6,6 +6,23 @@ alias: formula-of-happiness
 date: 31 October 2019
 images:
 - '![](../images/happiness800.jpg)'
+keywords:
+- happiness
+- well-being
+- hedonic well-being
+- eudaimonic well-being
+- sleep quality
+- physical activity
+- healthy eating
+- social activity
+- altruism
+- learning
+- smile
+- stress coping
+- life satisfaction
+- longevity
+- mental wellbeing
+description: Overview of happiness and well-being components (evaluative, hedonic, eudaimonic) and practical factors like sleep, movement, diet, social ties, altruism, learning, and positive coping strategies that contribute to a happier life.
 ---
 
 # Formula of Happiness

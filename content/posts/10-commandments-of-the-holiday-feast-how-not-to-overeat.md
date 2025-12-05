@@ -6,6 +6,18 @@ alias: 10-commandments-of-the-holiday-feast-how-not-to-overeat
 date: 27 December 2018
 images:
 - '![](../images/yak-ne-pereisty.300.jpg)'
+keywords:
+- overeating
+- festive feast
+- pancreatitis
+- gastric health
+- portion control
+- mindful eating
+- social eating influences
+- alcohol and appetite
+- New Year diet
+- digestive health tips
+description: Overview of how social dining and festive habits lead to overeating, the potential digestive and pancreatic risks, and practical tips to avoid overeating during celebrations.
 ---
 
 # The 10 Commandments of a Festive Feast: How Not to Overeat?

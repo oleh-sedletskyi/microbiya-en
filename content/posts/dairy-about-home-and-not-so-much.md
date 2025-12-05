@@ -6,6 +6,28 @@ alias: dairy-about-home-and-not-so-much
 date: 31 May 2019
 images:
 - '![](../images/milk300.jpg)'
+keywords:
+- dairy production
+- milk safety
+- homemade milk
+- milk processing
+- pasteurization
+- deaeration
+- standardization
+- homogenization
+- food safety
+- milk adulteration
+- dairy market fraud
+- foodborne pathogens
+- lactoperoxidase
+- lysozyme
+- pasteurized milk
+- cold chain
+- milk testing
+- sanitary norms
+- public health
+- consumer trust
+description: Overview of dairy production from farm to store, highlighting milk safety, processing steps (deaeration, standardization, homogenization, thermal processing), quality controls, and risks of counterfeit or contaminated dairy sold at markets.
 ---
 
 # Dairy: about homemade and not so much

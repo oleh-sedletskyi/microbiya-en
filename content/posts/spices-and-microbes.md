@@ -6,6 +6,25 @@ alias: spices-and-microbes
 date: 10 January 2020
 images:
 - '![](../images/spices1000.jpg)'
+keywords:
+- spices
+- antibacterial properties
+- antioxidant
+- multi-drug-resistant infections
+- cinnamon
+- clove
+- black cumin
+- oregano
+- coriander
+- food safety
+- antimicrobial activity
+- spice contamination
+- lead contamination
+- Salmonella in spices
+- food storage
+- ethanol extraction
+- in vitro studies
+description: Overview of how spices contain bioactive compounds with antimicrobial and health-promoting properties, plus cautions about extraction methods, potential contamination, and the limitations of relying on spices for infection treatment.
 ---
 
 # Spices and Microbes

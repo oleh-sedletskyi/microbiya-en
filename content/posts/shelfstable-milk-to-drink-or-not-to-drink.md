@@ -6,6 +6,18 @@ alias: shelfstable-milk-to-drink-or-not-to-drink
 date: 25 October 2018
 images:
 - '![](../images/moloko-ne-skisae.jpg)'
+keywords:
+- long-term stored milk
+- pasteurization
+- ultrapasteurization
+- sterilization
+- spores in milk
+- microbial safety
+- organoleptic properties
+- milk shelf life
+- thermal processing
+- packaging for milk
+description: Overview of thermal processing options for long-term stored milk (pasteurization vs. sterilization/ultrapasteurization), their impact on shelf life, spores, and packaging considerations.
 ---
 
 # Long-term stored milk: to drink or not to drink?

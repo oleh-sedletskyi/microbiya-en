@@ -6,6 +6,18 @@ alias: are-probiotic-supplements-effective
 date: 07 June 2019
 images:
 - '![](../images/probiotics_300.jpg)'
+keywords:
+- probiotic preparations
+- lactic acid bacteria
+- bone fide probiotics
+- antagonistic activity
+- vaginal probiotics
+- Lactobacillus rhamnosus LGG
+- Bifidobacteria
+- antibiotic-associated diarrhea
+- necrotizing enterocolitis
+- gut microbiota
+description: Overview of probiotic preparations, their mechanisms, effectiveness across conditions, and guidance on selecting truly evidence-based probiotics.
 ---
 
 # Are Probiotic Preparations Effective?

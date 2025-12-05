@@ -6,6 +6,18 @@ alias: gut-microbiota-the-butterflies-in-the-stomach-recipe
 date: 26 April 2019
 images:
 - '![](../images/butterflies.jpg)'
+keywords:
+- gut microbiota
+- fiber fermentation
+- short-chain fatty acids
+- serotonin
+- GABA
+- immune system training
+- blood–brain barrier
+- neurogenesis
+- inflammatory regulation
+- antibiotic stewardship
+description: Overview of how gut microbes influence digestion, immunity, mood, and brain development, highlighting metabolites like short-chain fatty acids and GABA, and lifestyle tips to support a healthy microbiome.
 ---
 
 # Gut Microbiota: A Recipe for Butterflies in the Stomach

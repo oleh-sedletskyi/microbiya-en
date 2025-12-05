@@ -6,6 +6,18 @@ alias: how-to-find-your-own-dentist-check-list
 date: 22 March 2019
 images:
 - '![](../images/dentist.jpg)'
+keywords:
+- dentist
+- finding a dentist
+- choosing a dentist
+- dental clinic
+- dentistry
+- patient-centered care
+- modern dental approaches
+- preventive dental care
+- doctor-patient communication
+- treatment planning
+description: A practical checklist for finding your dentist, focusing on evaluating credentials, doctor-patient fit, evidence-based approaches, preventive care, and clear communication to inform your choice.
 ---
 
 # How to Find "Your" Dentist - Check-list

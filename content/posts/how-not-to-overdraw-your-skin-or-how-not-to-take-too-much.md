@@ -5,6 +5,23 @@ title: 'How Not to Overdraw Your Skin (or: How Not to Take Too Much)'
 alias: how-not-to-overdraw-your-skin-or-how-not-to-take-too-much
 date: 16 September 2018
 images: []
+keywords:
+- pool water safety
+- pool pathogens
+- cryptosporidia
+- legionella
+- pseudomonas
+- adenoviruses
+- Escherichia coli
+- Salmonella
+- fungal infections
+- amebae
+- chlorination
+- disinfectants
+- public pool hygiene
+- swimming pool health risks
+- water quality control
+description: Overview of health risks and common pathogens in swimming pools, highlighting chlorination challenges, susceptible populations, and practical precautions for safer pool use.
 ---
 
 # How Not to Draw Out More than Needed

@@ -6,6 +6,18 @@ alias: 5-intriguing-facts-about-your-appendix
 date: 06 December 2018
 images:
 - '![](../images/appendix.jpg)'
+keywords:
+- appendix
+- appendicitis
+- gut microbiome
+- lymphoid tissue
+- immunity
+- fusobacteria
+- nosocomial infections
+- Clostridium difficile
+- appendix removal
+- Parkinson’s disease
+description: Overview of intriguing facts about the appendix, its role in individuality, genetics of appendicitis, microbiome reservoir, immune function, and implications of appendix removal.
 ---
 
 # 5 Intriguing Facts About Your Appendix

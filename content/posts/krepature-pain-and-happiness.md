@@ -6,6 +6,18 @@ alias: soreness-pain-and-happiness
 date: 05 December 2019
 images:
 - '![](../images/Skorokhod1000.jpg)'
+keywords:
+- delayed onset muscle soreness
+- DOMS
+- lactate vs micro-tears
+- muscle recovery
+- stretching and warm-up
+- massage and massage roller
+- cold water immersion
+- inflammation and cytokines
+- injury prevention
+- recovery strategies
+description: Overview of soreness (DOMS), its causes, risks, and evidence-based recovery strategies including movement, stretching, massage, cold water immersion, nutrition, and gradual training.
 ---
 
 # Soreness: Pain and Happiness

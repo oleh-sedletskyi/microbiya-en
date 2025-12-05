@@ -15,6 +15,20 @@ images:
 - '![](../animals/Boldirev740.jpg)'
 - '![](../animals/Skorohod740.jpg)'
 - '![](../animals/Uspenska740.jpg)'
+keywords:
+- animal testing
+- 3R principles
+- Replacement
+- Reduction
+- Refinement
+- ethics in research
+- in vitro models
+- organio ds
+- organoids
+- in silico modeling
+- monoclonal antibodies
+- animal welfare in laboratories
+description: Overview of the debate on animal testing in science, outlining 3R principles, ethical considerations, and the roles of alternative methods alongside continued use of animal models in biomedical research.
 ---
 
 # Animal testing: cannot be conducted, must be forbidden

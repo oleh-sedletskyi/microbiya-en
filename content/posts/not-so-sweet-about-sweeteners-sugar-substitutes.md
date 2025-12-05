@@ -6,6 +6,22 @@ alias: not-so-sweet-about-sweeteners-sugar-substitutes
 date: 04 October 2019
 images:
 - '![](../images/sweeteners800.jpg)'
+keywords:
+- sugar substitutes
+- natural-origin sweeteners
+- synthetic sweeteners
+- fructose vs glucose
+- glycemic index
+- stevia/stevioside
+- polyols
+- artificial sweeteners safety
+- saccharin
+- aspartame
+- cyclamate
+- metabolic effects
+- gut microbiota
+- pregnancy and sweeteners
+description: Overview of sugar substitutes including natural and synthetic sweeteners, their metabolic effects, safety debates, and considerations for special populations.
 ---
 
 # Not-so-sweet about sweets: sugar substitutes

@@ -6,6 +6,18 @@ alias: dont-be-dried-up
 date: 31 January 2019
 images:
 - '![](../images/dry-air_300.jpg)'
+keywords:
+- relative humidity
+- dry air
+- humidifiers
+- air quality
+- eye irritation
+- skin dryness
+- dust and microbes
+- monitor break
+- blinking
+- room humidity
+description: Overview of optimal indoor humidity (40–60%), effects of low humidity on skin, eyes, and respiratory comfort, and practical tips to manage humidity including humidifiers, cleaning, and breaks from screens.
 ---
 
 # Don’t Dry Out

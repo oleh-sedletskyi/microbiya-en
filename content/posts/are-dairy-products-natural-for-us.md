@@ -6,6 +6,18 @@ alias: are-dairy-products-natural-for-us
 date: 02 November 2018
 images:
 - '![](../images/milk-nature.jpg)'
+keywords:
+- dairy products
+- lactose
+- lactase
+- lactose intolerance
+- lactose tolerance
+- milk consumption history
+- calcium in dairy
+- protein in dairy
+- lactose-free dairy
+- dietary guidelines
+description: Explores whether dairy is natural for humans, lactose digestion and intolerance variations, historical dairy adoption, and dietary recommendations including moderate consumption and plant-based dietary emphasis.
 ---
 
 # Are dairy products "natural" for us?

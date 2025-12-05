@@ -6,6 +6,18 @@ alias: hookah-coronavirus-infections-environment
 date: 04 June 2020
 images:
 - '![](../images/hookah1000.jpg)'
+keywords:
+- hookah
+- COVID-19
+- smoking health risks
+- air quality
+- hookah bars
+- tobacco regulation
+- environmental impact
+- infection transmission
+- nicotine dependence
+- toxic chemicals
+description: Overview of hookah-related health and environmental risks, including higher toxin exposure vs cigarettes, potential COVID-19 transmission, and the impact on indoor air quality and public spaces.
 ---
 
 # Hookah: coronavirus, infections, environment

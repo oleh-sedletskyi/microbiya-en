@@ -6,6 +6,24 @@ alias: microbial-saga-who-where-and-why
 date: 01 March 2019
 images:
 - '![](../images/microbes_300.jpg)'
+keywords:
+- microbes
+- microorganisms
+- bacteria
+- archaea
+- protists
+- fungi
+- microbiota
+- biofilms
+- ocean biomass
+- nitrogen fixation
+- microbial ecology
+- immune system
+- biogeochemical cycles
+- microbial metabolism
+- unsplash bacteria
+- environmental microbiology
+description: Overview of microbes and microorganisms, their key groups, scales, ecological roles, and how they shape life on Earth and human health.
 ---
 
 # Microbial Saga. Who, Where, and Why?

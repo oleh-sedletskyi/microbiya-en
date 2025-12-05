@@ -6,6 +6,18 @@ alias: herbicides-scary-and-not-so-much
 date: 27 June 2019
 images:
 - '![](../images/gerb1000.jpg)'
+keywords:
+- herbicides
+- ALS inhibitors
+- weed control
+- MOA
+- crop safety
+- weed resistance
+- organic farming
+- biopesticides
+- allelopathy
+- Ukraine agriculture description
+description: 'Overview of herbicides: how they work, mechanisms of action, safety, resistance, alternatives, and considerations for Ukrainian crops and implementation.'
 ---
 
 # Herbicides: Scary and Not So Much

@@ -6,6 +6,28 @@ alias: halloween-a-day-of-honoring-people-with-some-rare-diseases
 date: 25 October 2018
 images:
 - '![](../images/zombie.jpg)'
+keywords:
+- porphyria
+- porphyrin metabolism
+- rare diseases
+- genetic disorders
+- photodermatosis
+- lycanthropia
+- hypertrichosis
+- Cotard syndrome
+- rabies
+- dracula
+- Vlad III Dracula
+- werewolves
+- medical history
+- Halloween
+- porphyria history
+- genetic predisposition
+- royal families
+- George III
+- Gothic folklore
+- rare disease awareness
+description: A Halloween-themed overview linking folklore vampires and other creatures to rare genetic disorders (notably porphyria), along with mentions of hypertrichosis, Cotard syndrome, and rabies, highlighting medical history and genetic factors.
 ---
 
 # Halloween – a Day of Remembrance for People with Some Rare Diseases

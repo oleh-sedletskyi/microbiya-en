@@ -8,6 +8,18 @@ images:
 - '![](../images/bacterii-na-telefoni.jpg)'
 - '![](../images/telephone.jpg)'
 - '![](../images/cleaning-cell-phone.jpg)'
+keywords:
+- mobile phone hygiene
+- microbial contamination phones
+- nosocomial infections
+- pathogens on devices
+- doctor phone hygiene
+- UV disinfection boxes
+- alcohol-based disinfectants
+- electronic device cleaning
+- hand hygiene connection
+- infection prevention in healthcare
+description: Overview of how mobile phones harbor microbes and pathogens, the risk to patients from doctors' devices, and practical sanitization methods including UV boxes and alcohol-based cleaners.
 ---
 
 # A Bug on the Phone and When a Doctor Is Dangerous for a Patient

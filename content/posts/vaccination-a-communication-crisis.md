@@ -6,6 +6,18 @@ alias: vaccination-a-communication-crisis
 date: 07 February 2019
 images:
 - '![](../images/vaccination2.jpg)'
+keywords:
+- vaccination
+- vaccination communication
+- anti-vaxxers
+- evidence-based medicine
+- information sources
+- critical thinking
+- trust in doctors
+- medical misinformation
+- communication strategy
+- public health messaging
+description: A guide on empathetic, evidence-based vaccination communication, encouraging calm dialogue, critical evaluation of sources, and seeking trusted medical advice to address concerns.
 ---
 
 # Vaccination: a communications crisis

@@ -6,6 +6,18 @@ alias: moldy-cheese-about-taste-and-safety
 date: 30 August 2019
 images:
 - '![](../images/cheese800.jpg)'
+keywords:
+- blue cheese
+- mold-ripened cheese
+- Penicillium
+- Geotrichum candidum
+- listeria risk
+- soft cheese safety
+- mycotoxins
+- protein proteolysis
+- lactic acid fermentation
+- pasteurized milk
+description: Overview of blue mold cheese production, safety considerations, microbiology (Penicillium, Geotrichum candidum), potential toxins and pathogens, and practical guidelines for safe consumption.
 ---
 
 # Blue Mold Cheese: About Taste and Safety

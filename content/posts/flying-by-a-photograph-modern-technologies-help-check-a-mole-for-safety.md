@@ -6,6 +6,18 @@ alias: flying-by-a-photograph-modern-technologies-help-check-a-mole-for-safety
 date: 25 October 2018
 images:
 - '![](../images/diagnostika-rodimok.jpg)'
+keywords:
+- mole detection
+- nevus
+- melanoma screening
+- skin cancer AI
+- photograph mole
+- mobile health app
+- dermatology AI
+- ' seborrheic keratosis'
+- nevus vs melanoma
+- medical imaging AI
+description: Overview of using mobile AI to assess mole safety, distinguishing nevus from melanoma and keratosis, with neural networks and comparative accuracy to larger datasets.
 ---
 
 # "I’m Healing by Photo" - modern technologies help check a mole for safety

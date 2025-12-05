@@ -7,6 +7,18 @@ date: 28 November 2019
 images:
 - '![](../images/pm2.5_scale_graphic-color_2.jpg)'
 - '![](../images/air1000.jpg)'
+keywords:
+- air pollution
+- PM2.5
+- PM10
+- particulate matter
+- cardiovascular disease
+- respiratory health
+- air quality
+- tobacco smoke
+- hookah smoke
+- indoor air quality
+description: Overview of air pollution, focusing on PM2.5/PM10, their sources, health impacts, especially on respiratory and cardiovascular systems, and recommendations for reducing exposure.
 ---
 
 # Air Pollution: Consequences and Perspectives

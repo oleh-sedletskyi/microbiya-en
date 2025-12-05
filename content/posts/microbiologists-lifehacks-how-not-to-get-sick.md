@@ -6,6 +6,18 @@ alias: microbiologists-lifehacks-how-not-to-get-sick
 date: 21 October 2018
 images:
 - '![](../images/yak-ne-zahvoritu-intro.jpg)'
+keywords:
+- infection prevention
+- germ outside inside
+- hand hygiene
+- nasal hygiene
+- virus transmission
+- public health habits
+- avoid touching face
+- mobile phone sterilization
+- sleep and stress management
+- respiratory etiquette
+description: Practical microbiologist tips to prevent infections from external and internal germs, emphasizing hand/face hygiene, minimizing contact with sick individuals, and simple home practices like sleep, stress reduction, and nasal cleansing.
 ---
 
 # Lifehacks from a Microbiologist - How Not to Get Sick

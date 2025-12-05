@@ -6,6 +6,18 @@ alias: about-ice-cream-safety-tips
 date: 13 June 2019
 images:
 - '![](../images/ice_cream_300.jpg)'
+keywords:
+- ice cream safety
+- storage temperature
+- shelf life
+- DSTU labeling
+- frozen dessert
+- microbial contamination
+- whipping and freezing
+- temperature abuse
+- 'nutrition: sugar and saturated fat'
+- quality control in ice cream
+description: Overview of ice cream production, storage, labeling standards (DSTU), safety considerations, and tips to assess quality and avoid contamination.
 ---
 
 # About Ice Cream: Safety First

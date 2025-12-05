@@ -6,6 +6,18 @@ alias: cats-and-microbes
 date: 02 February 2023
 images:
 - '![](../images/cat800.jpg)'
+keywords:
+- cats
+- toxoplasma gondii
+- microbiome
+- cat purring
+- toxoplasmosis
+- cats and humans
+- pet health
+- cats and microbes
+- feline microbiota
+- cat-associated infections
+description: Overview of how cats influence human microbiota and behavior through microbes like toxoplasma, purring, and household exposure, with notes on transmission, risks, and immune interactions.
 ---
 
 # Cats and Microbes

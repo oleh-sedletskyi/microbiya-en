@@ -6,6 +6,18 @@ alias: milk-and-cancer-myths-and-reality
 date: 16 November 2018
 images:
 - '![](../images/milk-men1.jpg)'
+keywords:
+- milk and cancer
+- dairy consumption and cancer risk
+- fermented dairy and cancer risk
+- prostate cancer milk intake
+- whole milk vs skim milk cancer outcomes
+- IGF in milk
+- dairy hormones in milk
+- prostate cancer dairy studies
+- milk consumption reviews
+- dairy product health effects
+description: Review of the evidence on dairy intake and cancer risk, noting mixed findings with some evidence for reduced risk with fermented dairy and unclear or conflicting links for prostate cancer and whole milk.
 ---
 
 # Milk and Cancer: Myths and Reality

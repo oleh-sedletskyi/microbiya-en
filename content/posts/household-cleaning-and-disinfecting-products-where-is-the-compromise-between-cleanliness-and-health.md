@@ -6,6 +6,18 @@ alias: household-cleaning-and-disinfecting-products-where-is-the-compromise-betw
 date: 24 January 2019
 images:
 - '![](../images/desinfectants.jpg)'
+keywords:
+- household disinfectants
+- antimicrobial cleaners
+- antibacterial soap risks
+- antibiotic resistance
+- cross-resistance
+- disinfectants and microbiota
+- allergies and cleaning agents
+- ultrasonic humidifier disinfectants
+- water and cleaning safety
+- avoiding antibacterial chemicals
+description: Overview of the health and environmental implications of household disinfectants and cleaning agents, highlighting human microbiota, antibiotic resistance risks, and guidance to minimize use while emphasizing safety.
 ---
 
 # Household cleaning and disinfecting agents: where is the compromise between cleanliness and health?

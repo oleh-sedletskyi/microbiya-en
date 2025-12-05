@@ -6,6 +6,18 @@ alias: early-swimming-benefit-or-fashion
 date: 25 October 2018
 images:
 - '![](../images/ranne-plavannya.jpg)'
+keywords:
+- early swimming
+- infant swimming risks
+- pool water safety
+- toxic chemicals inhalation
+- infections from swimming
+- bronchitis asthma allergies and swimming
+- diarrhea otitis respiratory infections infants
+- baby swim diapers efficacy
+- reflexes protective mechanism water
+- parental decision swimming infants
+description: Concise discussion of early swimming for infants, weighing potential benefits against risks such as choking, infections, and respiratory issues, with references to safety concerns and medical guidelines.
 ---
 
 # Early swimming – benefit or fashion?

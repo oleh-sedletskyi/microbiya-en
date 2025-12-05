@@ -6,6 +6,18 @@ alias: who-really-needs-sourdough-bread-yeastfree-bread
 date: 21 October 2018
 images:
 - '![](../images/bezdrizhdzheviy-hlib.jpg)'
+keywords:
+- non-dairy bread
+- yeast in bread
+- Saccharomyces cerevisiae
+- baked goods safety
+- sourdough starter
+- yeast and health
+- digestive tolerance
+- lactic acid bacteria
+- bread fermentation
+- kefir grapes yeast
+description: Discusses the role of yeast in bread, knits together myths about non-dairy bread, and clarifies safety, fermentation, and health considerations surrounding yeast and baked goods.
 ---
 
 # Who really needs non-dairy bread?

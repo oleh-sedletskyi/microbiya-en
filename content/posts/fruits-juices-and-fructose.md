@@ -6,6 +6,18 @@ alias: fruits-juices-and-fructose
 date: 11 October 2019
 images:
 - '![](../images/fruits800.jpg)'
+keywords:
+- fruits vs confectionery
+- fruit sugars vs added sugars
+- fruit juices fiber comparison
+- fructose metabolism and health
+- fruit and weight management
+- glycemic index of fructose
+- fruit intake recommendations
+- fiber benefits from fruits
+- diabetes and fruit consumption
+- whole fruits vs juice health benefits
+description: Overview of the health implications of fruits, fruit juices, and fructose, highlighting fiber, sugar content, weight impact, and dietary recommendations.
 ---
 
 # Fruits, Juices, and Fructose

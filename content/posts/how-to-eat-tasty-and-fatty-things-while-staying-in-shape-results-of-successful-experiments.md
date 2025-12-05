@@ -7,6 +7,18 @@ date: 25 October 2018
 images:
 - '![](../images/dieta1.jpg)'
 - '![](../images/dieta.jpg)'
+keywords:
+- time-restricted eating
+- 10-hour eating window
+- calorie intake命
+- metabolic health
+- diet and circadian rhythm
+- intermittent fasting
+- obesity prevention
+- diabetes risk
+- fatty liver disease
+- biological clock
+description: Study shows that consuming the same amount of calories within a 10-hour daytime window improves metabolic health and reduces disease risk, even with genetic clock defects; findings are from mouse experiments with potential implications for humans.
 ---
 
 # How to eat tasty and rich, but stay in shape – results of successful experiments

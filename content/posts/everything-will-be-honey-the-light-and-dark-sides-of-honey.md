@@ -6,6 +6,18 @@ alias: everything-will-be-honey-the-light-and-dark-sides-of-honey
 date: 18 September 2019
 images:
 - '![](../images/honey800.jpeg)'
+keywords:
+- honey composition
+- fructose glucose ratio
+- antimicrobial properties
+- honey antioxidants
+- polyphenols in honey
+- honey the dark side
+- honey safety
+- Clostridium botulinum spores
+- hydroxymethylfurfural in honey
+- honey storage and quality
+description: Overview of honey's composition and health properties, highlighting antimicrobial, antioxidant, and therapeutic aspects, along with potential risks and misconceptions about processing, storage, and safety.
 ---
 
 # Everything Will Be Honeyful: The Light and Dark Sides of Honey

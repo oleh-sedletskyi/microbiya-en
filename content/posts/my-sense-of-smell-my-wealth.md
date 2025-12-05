@@ -6,6 +6,18 @@ alias: my-sense-of-smell-my-wealth
 date: 15 February 2019
 images:
 - '![](../images/nyuh_300.jpg)'
+keywords:
+- sense of smell
+- olfactory health
+- smell loss
+- smell and taste
+- olfactory rehab
+- smoking and smell
+- odor perception
+- olfactory disorders
+- smell and sexuality
+- neurodegenerative disorders
+description: Explores the importance of smell for safety, enjoyment of food, relationships, and social interaction, with causes of smell loss and tips for preserving olfactory health.
 ---
 
 # My sense of smell — my wealth

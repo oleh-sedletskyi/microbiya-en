@@ -6,6 +6,18 @@ alias: about-the-beginnings-of-beginnings-the-development-of-the-gut-microbiome-
 date: 19 July 2019
 images:
 - '![](../images/500.jpg)'
+keywords:
+- intestinal microbiome
+- children microbiota development
+- birth mode microbiota
+- cesarean vs vaginal delivery microbiota
+- breast milk microbiota
+- premature birth microbiome
+- antibiotics and microbiota
+- hygiene hypothesis
+- early-life immune training
+- environmental influences on microbiome
+description: Overview of how the infant gut microbiome develops in early life, highlighting birth mode, feeding, prematurity, antibiotics, genetics, environment, and the hygiene hypothesis in shaping microbial diversity and immune training.
 ---
 
 # About the “beginnings of beginnings”: the development of the intestinal microbiome in children

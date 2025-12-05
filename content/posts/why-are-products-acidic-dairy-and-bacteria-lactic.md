@@ -7,6 +7,18 @@ date: 16 September 2018
 images:
 - '![](../images/molochnokisli.png)'
 - '![](../images/molochna-kislota.jpg)'
+keywords:
+- лактозо-кислі продукти
+- лактична кислота бактерії
+- lactic acid bacteria
+- молочнокислі продукти
+- кепір бактерія лактокислі
+- starter cultures
+- dairy probiotics
+- fermentation lactic acid
+- isosomers lactic acid
+- молочнокислі бактерії
+description: Стаття пояснює взаємозв'язок між молочнокислими продуктами, лактокислими бактеріями та луктивною кислотою, з акцентом на ферментацію в молочних продуктах і ізомерію молочної кислоти.
 ---
 
 # Why are the products LACTOMILK and the bacteria LACTIC?

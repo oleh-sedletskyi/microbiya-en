@@ -6,6 +6,18 @@ alias: symptoms-and-diagnoses-how-not-to-google-for-too-much
 date: 20 February 2019
 images:
 - '![](../images/googling_700.jpg)'
+keywords:
+- health information
+- online medical information
+- fake medical data
+- googling health symptoms
+- self-diagnosis risks
+- reliable medical sources
+- Google Scholar
+- medical information literacy
+- doctor-patient trust
+- preventing misinformation
+description: Guidance on evaluating online medical information, recognizing fake data, and how to use reliable sources to inform health decisions without unnecessary worry.
 ---
 
 # Symptoms and Diagnoses — how not to google yourself into unnecessary worry?

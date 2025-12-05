@@ -6,6 +6,18 @@ alias: alcohol-and-the-microbiota
 date: 02 August 2019
 images:
 - '![](../images/alcohol500.jpg)'
+keywords:
+- alcohol and microbiota
+- dysbiosis
+- lipopolysaccharides
+- intestinal permeability
+- colorectal cancer risk
+- acetaldehyde
+- gut microbiome
+- opportunistic pathogens
+- Gram-negative biota
+- inflammation
+description: Alcohol disrupts gut microbiota (dysbiosis), increases intestinal permeability and acetaldehyde accumulation, and is linked to a higher risk of colorectal cancer, especially with certain lifestyle or family history factors.
 ---
 
 # Alcohol and the Microbiota

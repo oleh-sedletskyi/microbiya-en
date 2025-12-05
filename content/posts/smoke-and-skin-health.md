@@ -6,6 +6,18 @@ alias: smoke-and-skin-health
 date: 25 July 2019
 images:
 - '![](../images/smoke400.jpg)'
+keywords:
+- smoking and skin aging
+- tobacco smoke skin damage
+- fibroblast migration cigarette
+- pigmentation and cigarettes
+- premature aging nicotine effects
+- UV radiation smoking wrinkles
+- vitamin D deficiency smoking
+- eczema psoriasis smoking link
+- epithelial barrier disruption smoking
+- skin cancer risk tobacco
+description: Overview of how tobacco smoke accelerates skin aging, damages the epidermal barrier, increases wrinkles and pigmentation, and raises risks of irritation, dermatitis, and cancer.
 ---
 
 # Smoke and Skin Health

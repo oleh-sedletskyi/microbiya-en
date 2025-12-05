@@ -6,6 +6,18 @@ alias: about-drinking-water-important-clarifications
 date: 03 January 2020
 images:
 - '![](../images/man-showing-glass-water.jpg)'
+keywords:
+- drinking water
+- water intake recommendations
+- hydration guidelines
+- carbonated water effects
+- water and health
+- fluid intake vs water
+- dehydration symptoms
+- water temperature
+- mineral water
+- risk of drinking water
+description: Overview of how much water to drink, sources of hydration, factors affecting fluid needs, effects of water temperature, carbonation, and mineral water, plus practical guidance to prevent dehydration and maintain health.
 ---
 
 # About drinking water – important clarifications

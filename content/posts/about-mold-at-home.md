@@ -6,6 +6,18 @@ alias: about-mold-at-home
 date: 16 January 2020
 images:
 - '![](../images/mold600.jpg)'
+keywords:
+- mold in the home
+- mold prevention moisture control
+- black mold dangers
+- mycotoxins and health
+- mold spores and ventilation
+- fungi in buildings
+- antifungal materials
+- drywall moisture resistance
+- mold cleaning agents
+- breach of mold hygiene
+description: Overview of mold in homes, its causes, potential health risks, and practical moisture control and cleaning strategies to prevent mold growth.
 ---
 
 # About Mold at Home

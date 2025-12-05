@@ -17,6 +17,18 @@ images:
 - '![](../images/coffee/2-1000.jpg)'
 - '![](../images/coffee/irish1000.jpg)'
 - '![](../images/coffee/appuchino1000.jpg)'
+keywords:
+- coffee chemistry
+- caffeine effects
+- coffee roasting
+- espresso
+- Americano
+- Arabica Robusta
+- milk-based coffees
+- latte art
+- brew methods
+- caffeine safety
+description: Overview of coffee chemistry, caffeine effects on fatigue, roasting and bean varieties, and common brewing methods and drinks.
 ---
 
 # Tangled Chemistry of Coffee

@@ -6,6 +6,23 @@ alias: scent-of-the-body-secrets-and-small-secrets
 date: 23 May 2019
 images:
 - '![](../images/tango300.jpg)'
+keywords:
+- body odor
+- underarm odor
+- sweat glands
+- apocrine glands
+- eccrine glands
+- bacteria skin microbiome
+- antiperspirants
+- deodorants
+- MHC genetics
+- trimethylaminuria
+- odor and hormones
+- diet and odor
+- probiotic cosmetics
+- hair removal
+- odor management
+description: Overview of factors shaping body odor, including genetics, hormones, diet, bacteria, and sweat glands, with practical tips on antiperspirants, deodorants, and lifestyle to manage odor.
 ---
 
 # The Scent of the Body: Secrets and Little Secrets

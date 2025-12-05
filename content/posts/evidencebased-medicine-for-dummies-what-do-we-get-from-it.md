@@ -8,6 +8,18 @@ images:
 - '![](../images/doctor_700.jpg)'
 - '![](../images/triada400.jpg)'
 - '![](../images/piramida400.jpg)'
+keywords:
+- evidence-based medicine
+- clinical evidence
+- medical decision making
+- research hierarchy
+- pyramid of evidence
+- effectiveness of treatments
+- patient-centered care
+- medical communication
+- quality scientific sources
+- healthcare costs
+description: Overview of evidence-based medicine, its sources, the hierarchy of evidence, and how clinical decisions should balance proven effectiveness, patient characteristics, and scientific references.
 ---
 
 # Evidence-Based Medicine for Dummies – What Do We Get From It?

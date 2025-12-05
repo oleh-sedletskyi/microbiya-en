@@ -6,6 +6,18 @@ alias: about-sneaky-snacks
 date: 17 April 2020
 images:
 - '![](../images/snack1000.jpg)'
+keywords:
+- snacking
+- weight loss
+- healthy snacks
+- fiber-rich foods
+- portion control
+- eating slowly
+- overeating prevention
+- junk food alternatives
+- screen-time eating
+- nutrition guidelines
+description: Overview of snacking habits, their impact on weight and behavior, and practical tips for healthier choices and mindful eating to support weight management.
 ---
 
 # About Sneaky Snacks

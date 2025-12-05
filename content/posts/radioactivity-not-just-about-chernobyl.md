@@ -6,6 +6,25 @@ alias: radioactivity-not-just-about-chernobyl
 date: 04 July 2019
 images:
 - '![](../images/chernobyl600.jpg)'
+keywords:
+- radioactivity
+- ionizing radiation
+- radiation exposure
+- radioprotection
+- banana equivalent dose
+- gamma radiation
+- beta radiation
+- alpha radiation
+- nuclear energy
+- Chernobyl zone
+- radiation safety rules
+- radon in groundwater
+- radiotherapy
+- tardigrades radiation resistance
+- iodine therapy
+- military shielding radiation
+- radioactive isotopes cesium-137 strontium-90
+description: Overview of radioactivity, sources of ionizing radiation, measurement and safe exposure levels, health effects, protective principles, and practical considerations for visiting Chernobyl and radioprotection through diet and lifestyle.
 ---
 
 # Radioactivity: Not Just About Chernobyl

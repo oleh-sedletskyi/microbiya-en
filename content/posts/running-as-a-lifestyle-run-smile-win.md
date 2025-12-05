@@ -10,6 +10,18 @@ images:
 - '![](../images/19679433_10154557988866646_3554085214373004403_o.jpg)'
 - '![](../images/12991023_10153417249846646_6727452926798379440_n.jpg)'
 - '![](../images/36713716_282425308996415_4176541058940796928_n.jpg)'
+keywords:
+- running benefits
+- mood and running
+- weight loss running
+- running footwear
+- side stitch causes
+- injury prevention running
+- winter running
+- contraindications running
+- running for beginners
+- trail running
+description: Explores how running boosts mood, health, and fitness, with practical guidance on technique, injury prevention, footwear, timing, and when to run, plus advice for beginners.
 ---
 
 # Running as a lifestyle: run, smile, win!

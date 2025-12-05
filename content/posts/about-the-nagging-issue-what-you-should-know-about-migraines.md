@@ -6,6 +6,18 @@ alias: about-the-nagging-issue-what-you-should-know-about-migraines
 date: 16 August 2019
 images:
 - '![](../images/migraine800.jpg)'
+keywords:
+- migraine
+- migraine aura
+- migraine triggers
+- diet and migraine
+- probiotic migraine
+- chronic migraine
+- ischaemic stroke risk migraine
+- women migraine estrogen fluctuations
+- sleep stress migraine
+- neck pain tension-type headache
+description: Overview of migraine types, triggers, risk factors, and lifestyle tips for management, including aura, dietary triggers, gut-brain connection, and sleep/stress considerations.
 ---
 
 # About the “nagging thing”: what you should know about migraine

@@ -6,6 +6,18 @@ alias: dirty-and-happy-your-skin
 date: 05 April 2019
 images:
 - '![](../images/skin.jpg)'
+keywords:
+- skin microbiome
+- microbiota
+- probiotics
+- prebiotics
+- antimicrobial resistance
+- forensic microbiology
+- colonization resistance
+- skin immunity
+- hygiene practices
+- antiperspirants
+description: Overview of the skin microbiome, its role in immunity, factors disturbing it, and moderate hygiene practices to maintain a healthy microbial balance.
 ---
 
 # Dirty and Happy – Your Skin

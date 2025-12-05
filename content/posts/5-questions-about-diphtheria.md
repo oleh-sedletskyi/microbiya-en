@@ -6,6 +6,18 @@ alias: 5-questions-about-diphtheria
 date: 08 November 2019
 images:
 - '![](../images/horses800.jpg)'
+keywords:
+- diphtheria
+- Corynebacterium diphtheriae
+- diphtheria vaccine
+- antitoxin
+- booster vaccination
+- antibiotic resistance
+- diphtheria vaccination schedule
+- airborne transmission
+- public health vaccination
+- WHO vaccination guidelines
+description: Overview of diphtheria, its origins, transmission, and the importance of vaccination with boosters and antitoxin, plus notes on antibiotic resistance and vaccine production.
 ---
 
 # 5 Questions About Diphtheria

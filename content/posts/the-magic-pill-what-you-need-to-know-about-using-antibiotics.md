@@ -6,6 +6,18 @@ alias: the-magic-pill-what-you-need-to-know-about-using-antibiotics
 date: 27 September 2019
 images:
 - '![](../images/antibiotics800.jpg)'
+keywords:
+- antibiotic resistance
+- self-medication
+- antibiotic stewardship
+- overuse of antibiotics
+- antibiotics and microbiota
+- hospital-acquired infections
+- antibiotic safety
+- antibiotic side effects
+- resistant infections
+- proper antibiotic use
+description: Overview of antibiotic resistance, risks of self-prescribing, and guidance on responsible antibiotic use to protect personal and public health.
 ---
 
 # Magic Pill: What You Should Know About Antibiotic Use?

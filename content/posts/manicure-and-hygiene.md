@@ -6,6 +6,18 @@ alias: manicure-and-hygiene
 date: 19 December 2019
 images:
 - '![](../images/hcw1000.jpg)'
+keywords:
+- manicure hygiene
+- artificial nails bacteria
+- gel manicures safety
+- nail polish contamination
+- disinfection effectiveness
+- hand hygiene in healthcare
+- jewelry interference with cleaning
+- nail care and infections
+- UV exposure manicure
+- SPF hand protection
+description: Summary of how different manicure practices (artificial nails, regular polish, gel coatings) relate to microbial contamination, disinfection effectiveness, and infection risk, with recommendations for healthcare settings and sun protection during UV curing.
 ---
 
 # Manicure and Hygiene

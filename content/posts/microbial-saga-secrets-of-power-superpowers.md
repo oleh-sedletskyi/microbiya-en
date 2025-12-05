@@ -6,6 +6,18 @@ alias: microbial-saga-secrets-of-power-superpowers
 date: 11 March 2019
 images:
 - '![](../images/microbes2_300.jpg)'
+keywords:
+- bacteria
+- archaea
+- horizontal gene transfer
+- metabolic diversity
+- chemoorganotroph
+- phototroph
+- chemolithoautotroph
+- geochemical transformations
+- microbes
+- evolution speed
+description: A concise overview of bacterial and archaeal biology, highlighting rapid microbial evolution, simple cellular structures, horizontal gene transfer, diverse metabolisms, and the role of microbes in geochemical transformations.
 ---
 
 # Micro Tale: Secrets of a Superpower

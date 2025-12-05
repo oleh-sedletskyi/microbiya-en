@@ -6,6 +6,18 @@ alias: why-fiber-in-the-diet-is-really-important
 date: 03 May 2019
 images:
 - '![](../images/apple_300.jpg)'
+keywords:
+- dietary fiber
+- soluble vs insoluble fiber
+- prebiotic fibers
+- SCFAs
+- gut microbiota
+- diverticula prevention
+- cholesterol reduction
+- high-fiber foods
+- fiber intake recommendations
+- dietary sources of fiber
+description: Overview of dietary fiber types, their roles in digestion, gut health, and disease prevention, with practical guidance on how much and what to eat for adequate fiber intake.
 ---
 
 # Why Fiber in the Diet Really Matters?

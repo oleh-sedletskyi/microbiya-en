@@ -6,6 +6,18 @@ alias: microbial-saga-secrets-of-superpower
 date: 11 March 2019
 images:
 - '![](../images/microbes2_300.jpg)'
+keywords:
+- bacteria
+- microbes
+- horizontal gene transfer
+- metabolic diversity
+- chemoorganoheterotrophs
+- photolithoautotrophs
+- geochemical transformations
+- biotic evolution
+- antibiotic resistance
+- microbial speeds of evolution
+description: Overview of microbial life, highlighting bacteria’s rapid evolution, diverse metabolisms, horizontal gene transfer, and their key role in geochemical transformations.
 ---
 
 # Microbial Saga: Secrets of a Superpower

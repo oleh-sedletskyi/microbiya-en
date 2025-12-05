@@ -6,6 +6,18 @@ alias: religion-and-the-brain
 date: 17 April 2019
 images:
 - '![](../images/religion_500.jpg)'
+keywords:
+- religion and brain
+- neuroscience of belief
+- God spot temporal lobe
+- prayer meditation brain activity
+- religiosity and brain health
+- evolution of religion
+- epilepsy schizophrenia religiosity
+- neural basis of faith
+- anthropology of religious belief
+- religion and cognition
+description: A concise examination of how brain structure and neural processes relate to religious belief, prayer, and the evolution of religiosity from an anthropological and neuroscientific perspective.
 ---
 
 # Religion and the Brain

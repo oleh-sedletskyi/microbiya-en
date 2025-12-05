@@ -6,6 +6,18 @@ alias: teach-me-crispr
 date: 28 March 2019
 images:
 - '![](../images/chilinski.jpg)'
+keywords:
+- CRISPR
+- Cas9
+- bacterial immunity
+- genome editing
+- gene therapy
+- genetic diseases
+- bacteriophages
+- genome engineering
+- DNA editing
+- biotech ethics
+description: Overview of CRISPR technologies, Cas9, and their potential in treating genetic diseases, along with ethical considerations and global developments.
 ---
 
 # Teach Me CRISPR!

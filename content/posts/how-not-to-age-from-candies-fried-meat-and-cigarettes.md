@@ -5,6 +5,18 @@ title: How Not to Age from Candies, Fried Meat, and Cigarettes
 alias: how-not-to-age-from-candies-fried-meat-and-cigarettes
 date: 03 January 2019
 images: []
+keywords:
+- AGEs
+- advanced glycation end products
+- glycation
+- diet and aging
+- sugar intake
+- fructose
+- meat preparation
+- smoking tobacco
+- osteoporosis
+- diabetes complications
+description: Overview of how advanced glycation end products from sugar, processed foods, and tobacco contribute to aging, with diet and lifestyle tips to reduce their formation.
 ---
 
 # How Not to Age Because of Candies, Fried Meat, and Cigarettes

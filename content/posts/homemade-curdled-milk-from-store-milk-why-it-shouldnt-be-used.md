@@ -6,6 +6,18 @@ alias: homemade-curdled-milk-from-store-milk-why-it-shouldnt-be-used
 date: 16 September 2018
 images:
 - '![](../images/sore1.jpg)'
+keywords:
+- sour milk
+- lactic acid bacteria
+- pasteurized milk
+- starter culture
+- fermented dairy
+- home-made yogurt
+- kefir
+- milk spoilage
+- thermostable toxins
+- food safety
+description: Explains why home-brewed sour milk from store-bought milk can be unsafe, the role of lactic acid bacteria, and the importance of using a starter culture to avoid toxins and spoilage.
 ---
 
 # Home-brewed sour milk from store-bought milk – why you shouldn’t

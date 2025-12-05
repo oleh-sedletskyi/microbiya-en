@@ -6,6 +6,19 @@ alias: yogurts-alive-or-not-quite
 date: 17 May 2019
 images:
 - '![](../images/yoghurt.jpg)'
+keywords:
+- yogurt shelf life
+- lactic acid bacteria
+- probiotic strains
+- Bifidobacterium lactis hn019
+- Lactobacillus pentosus KCA1
+- L. acidophilus
+- bifidobacteria survival in yogurt
+- storage at 4°C
+- microbiological purity
+- organoleptic indicators
+- fermented dairy products
+description: Overview of how yogurt shelf life depends on probiotic strains, storage conditions, and bacterial viability, with examples of survivability timelines for common lactic acid bacteria and guidance on determining a product's shelf life.
 ---
 
 # Yogurts: alive or not so much?

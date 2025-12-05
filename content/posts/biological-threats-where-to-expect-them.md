@@ -6,6 +6,18 @@ alias: biological-threats-where-to-expect-them
 date: 14 February 2020
 images:
 - '![](../images/crowd1000.jpg)'
+keywords:
+- infectious diseases
+- biological threats
+- vaccination
+- antibiotic resistance
+- cholera
+- plague
+- smallpox
+- Ebola virus
+- biological weapons
+- public health hygiene
+description: Overview of infectious diseases and biological threats, highlighting history, vaccines, antibiotic resistance, notable pathogens (cholera, plague, smallpox, Ebola), transmission factors, and the role of hygiene and preparedness.
 ---
 
 # Biological threats: what to expect?

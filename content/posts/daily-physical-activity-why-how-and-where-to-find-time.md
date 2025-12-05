@@ -6,6 +6,18 @@ alias: daily-physical-activity-why-how-and-where-to-find-time
 date: 05 September 2019
 images:
 - '![](../images/scooter800.jpg)'
+keywords:
+- daily physical activity
+- sedentary lifestyle
+- moderate aerobic activity
+- strength training
+- exercise recommendations
+- ' NHS England exercise guidelines'
+- walking vs transport
+- habits to move more
+- mini-indulgence activity
+- pacing and breaks during work
+description: Overview of why daily physical activity matters, with NHS-backed guidelines on weekly moderate and strength exercise, plus practical tips to integrate movement into daily routines.
 ---
 
 # Daily Physical Activity: Why, How, and Where to Find Time?

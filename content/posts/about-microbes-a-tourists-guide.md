@@ -6,6 +6,18 @@ alias: about-microbes-a-tourists-guide
 date: 08 May 2019
 images:
 - '![](../images/travel_300.jpg)'
+keywords:
+- travel health
+- traveler's diarrhea
+- infectious diseases abroad
+- safe travel tips
+- vaccinations for travelers
+- water safety while traveling
+- food and water precautions
+- insect protection
+- vector-borne diseases
+- pre-travel preparedness
+description: Concise guide on traveler health risks and practical precautions, covering microbes, common travel illnesses, vaccinations, water and food safety, insect protection, and planning steps before a trip.
 ---
 
 # About Microbes: A Traveler’s Reminder

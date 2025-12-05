@@ -6,6 +6,18 @@ alias: sauerkraut-pro-hacks-from-the-pros
 date: 21 December 2018
 images:
 - '![](../images/kvashena-kapusta.jpg)'
+keywords:
+- pickled cabbage
+- kvashenaya kapusta
+- lactic acid bacteria
+- fermentation
+- salt percentage
+- home fermentation
+- refrigeration storage
+- carrots optional
+- cabbage selection
+- probiotic nutrition
+description: Comprehensive guide to choosing, preparing, fermenting, and storing pickled cabbage, highlighting quality signs, salt balance, fermentation conditions, benefits, and potential risks.
 ---
 
 # Pickled Cabbage: Pro Tips from the Pros

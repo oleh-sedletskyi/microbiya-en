@@ -6,6 +6,18 @@ alias: whats-scary-about-yogurts
 date: 13 November 2018
 images:
 - '![](../images/yogurt1.JPG)'
+keywords:
+- yogurt ingredients
+- live lactic acid bacteria
+- added sugar in yogurt
+- yogurt thickeners
+- carrageenan pectin xanthan gum
+- healthier yogurt choices
+- sugar guidelines WHO
+- yogurt labeling
+- fruit-filled yogurt sugar content
+- consumer advocacy yogurt
+description: Overview of common yogurt ingredients, including thickeners and flavorings, and the impact of added sugar on health; guidance on reading labels and reducing sugar in yogurt.
 ---
 
 # What’s scarier in yogurts?

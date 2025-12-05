@@ -6,6 +6,19 @@ alias: mythology-of-butter
 date: 30 November 2018
 images:
 - '![](../images/2.jpg)'
+keywords:
+- butter types
+- butter plasma
+- DSTU 4399:2005
+- butter vs margarine
+- trans fats in margarine
+- spreads vs butter
+- creamed butter
+- butter authenticity
+- nutrition and butter
+- storage of butter
+- butter myths
+description: Overview of butter types, composition, and distinguishing features from margarine and spreads, including fat content, plasma composition, trans fats, and storage guidelines.
 ---
 
 # Mythology of Butter

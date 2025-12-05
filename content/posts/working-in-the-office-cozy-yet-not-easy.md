@@ -6,6 +6,18 @@ alias: working-in-the-office-cozy-yet-not-easy
 date: 07 February 2020
 images:
 - '![](../images/office1000.jpg)'
+keywords:
+- office work
+- ergonomics
+- sitting disease
+- posture
+- air quality
+- ventilation
+- desk habits
+- eye strain
+- humidity
+- office comfort
+description: Overview of health and comfort challenges in modern office work, highlighting posture, ventilation, air quality, and daily habits that affect productivity and well-being.
 ---
 
 # Office Work: Cozy Yet Difficult

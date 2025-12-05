@@ -6,6 +6,26 @@ alias: microbiome-and-body-mass-index-who-depends-on-whom
 date: 11 July 2019
 images:
 - '![](../images/fat_mouse640.jpg)'
+keywords:
+- gut microbiota
+- body mass index
+- obesity
+- probiotics
+- Bifidobacteria
+- Lactobacillus plantarum
+- Akkermansia muciniphila
+- bacteroides
+- firmicutes
+- lipopolysaccharides
+- SCFAs
+- inflammation
+- metabolism
+- energy extraction
+- bile acids
+- FXR
+- weight loss
+- ' probiotics for obesity'
+description: Overview of how gut microbiota diversity and specific taxa relate to BMI, obesity risk, and weight regulation, including mechanisms like energy extraction, SCFAs, inflammation, bile acid metabolism, and probiotic interventions.
 ---
 
 # Microbiome and Body Mass Index: Who Benefits from Whom?

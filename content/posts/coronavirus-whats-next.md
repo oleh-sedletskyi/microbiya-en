@@ -6,6 +6,18 @@ alias: coronavirus-whats-next
 date: 28 February 2020
 images:
 - '![](../images/coronajpg.jpg)'
+keywords:
+- COVID-19
+- coronavirus
+- SARS
+- MERS
+- transmission
+- incubation period
+- symptoms
+- prevention
+- Ukraine
+- vaccine development
+description: Overview of COVID-19 origins, transmission, symptoms, incubation, prevention, and possible future scenarios, with a note on Ukraine’s context and vaccine development efforts.
 ---
 
 # Coronavirus: What’s next?

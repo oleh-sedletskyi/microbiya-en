@@ -6,6 +6,18 @@ alias: what-a-beast-kefir-is
 date: 28 July 2020
 images:
 - '![](../images/kefir.jpg)'
+keywords:
+- kefir
+- kefiranofaciens
+- lactobacillus kefiri
+- probiotic fermentation
+- microbial community
+- kefir grain
+- sound kefir microbiology
+- lactic acid bacteria
+- yeasts in kefir
+- antimicrobial activity
+description: Overview of kefir microbiology, its cooperative microbial community, and potential health effects of kefir consumption.
 ---
 
 # What a Beast—Kefir?

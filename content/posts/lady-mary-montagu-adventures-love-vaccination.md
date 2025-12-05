@@ -6,6 +6,18 @@ alias: lady-mary-montagu-adventures-love-vaccination
 date: 06 March 2019
 images:
 - '![](../images/53262022_621889388253892_1192522541890011136_n.jpg)'
+keywords:
+- Lady Mary Wortley Montagu
+- variolation history
+- smallpox vaccination
+- Letters from the Turkish Embassy
+- Ottoman Empire
+- vaccination pioneers
+- Edward Montagu
+- Jenner cowpox vaccine
+- women in science
+- 18th century medicine
+description: Overview of Lady Mary Wortley Montagu's life, her observations in the Ottoman Empire, and her pivotal role in popularizing variolation and early vaccination in Europe.
 ---
 
 # Lady Mary Wortley Montagu: Adventures, Love, Vaccination

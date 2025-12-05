@@ -6,6 +6,18 @@ alias: how-to-brush-your-teeth-without-going-crazy
 date: 24 October 2019
 images:
 - '![](../images/teeth800.jpg)'
+keywords:
+- dental hygiene
+- caries prevention
+- oral health
+- tooth brushing
+- flossing
+- mouthwash
+- professional dental cleaning
+- enamel whitening
+- electric toothbrush
+- diet and teeth
+description: ' concise overview of routine oral hygiene, caries prevention, impact of diet, and considerations for whitening and professional dental care.'
 ---
 
 # How to clean your teeth and not go crazy
