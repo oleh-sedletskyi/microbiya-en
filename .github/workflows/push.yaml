@@ -1,0 +1,61 @@
+name: Deploy to Github Pages
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'adopt'
+          java-version: '17'
+
+      - name: Install clojure tools
+        uses: DeLaGuardo/setup-clojure@13.4
+        with:
+          bb: 1.12.196
+          cli: 1.12.0.1488 # latest
+
+      - name: Execute script
+        run: "bb build"
+
+      # Add debug steps
+      - name: List built files
+        run: |
+          echo "Contents of static directory:"
+          ls -la static/
+          echo "Checking for index.html:"
+          if [ -f static/index.html ]; then
+            echo "index.html exists"
+            head -n 10 static/index.html
+          else
+            echo "index.html NOT found"
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './static'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

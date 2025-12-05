@@ -1,0 +1,43 @@
+{:paths ["src" "resources"]
+ :deps {markdown-clj/markdown-clj {:mvn/version "1.12.3"}
+        io.github.escherize/huff {:mvn/version "0.2.13"}
+        tick/tick {:mvn/version "1.0"}}
+ :pods {org.babashka/fswatcher {:version "0.0.5"}}
+ :tasks {build {:requires [[babashka.fs :as fs]]
+                :task
+                (do
+                  (println "Building...")
+                  (shell "clojure -X blog/process-posts")
+                  (fs/create-dirs "static")
+                  (fs/copy-tree "./public" "static" {:replace-existing true})
+                  (fs/copy-tree "./resources/assets" "static" {:replace-existing true})
+                  (spit "static/CNAME" "micro-en.907050.xyz"))}
+         serve {:extra-deps {org.babashka/http-server {:mvn/version "0.1.13"}}
+                :requires [[babashka.http-server :as http]]
+                :task (do
+                        (run 'build)
+                        (http/serve {:port 7777 :dir "static"})
+                        (deref (promise)))}
+         nrepl {:doc "run nrepl +flowstorm profile"
+                :task (shell "clojure -M:flowstorm:dev -m nrepl.cmdline")}
+         watch {:requires [[pod.babashka.fswatcher :as fw]
+                           [babashka.fs :as fs]
+                           [tick.core :as t]]
+                :task (do
+                        (println "Watching...")
+                        (doseq [dir ["content" "resources" "template"]]
+                          (println dir)
+                          (fw/watch dir
+                                    (fn [event]
+                                      (println (t/format (t/formatter "yyyy.MM.d - hh:mm:ss") (t/date-time)) " Reloading...")
+
+                                      ;; reload all files
+                                      (->> (concat (fs/glob "src" "**.md")
+                                                   (fs/glob "src" "**.html"))
+                                           (map (fn [f]
+                                                  (load-file (.toString f))))
+                                           doall)
+                                      (run 'build))
+                                    {:recursive true
+                                     :delay-ms 250}))
+                        (run 'serve))}}}
