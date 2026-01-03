@@ -75,7 +75,7 @@
 
 (defn render-main-pages []
   (let [main-files (->> (file/list-dir-files "content")
-                        (filter #(some (partial str/includes? %) ["contacts" "about-microb-and-me"])))]
+                        (filter #(some (partial str/includes? %) ["contacts" "about-microbe-club"])))]
     (when (seq main-files)
       (println  "Render main files:"))
     (->> main-files
