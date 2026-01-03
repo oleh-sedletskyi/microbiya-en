@@ -11,7 +11,7 @@
                   (fs/create-dirs "static")
                   (fs/copy-tree "./public" "static" {:replace-existing true})
                   (fs/copy-tree "./resources/assets" "static" {:replace-existing true})
-                  (spit "static/CNAME" "micro-en.907050.xyz"))}
+                  (spit "static/CNAME" "microbe.club"))}
          serve {:extra-deps {org.babashka/http-server {:mvn/version "0.1.13"}}
                 :requires [[babashka.http-server :as http]]
                 :task (do

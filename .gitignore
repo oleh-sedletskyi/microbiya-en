@@ -17,3 +17,9 @@ public/
 .clj-kondo/
 .lsp/
 static/
+
+resources/assets/images/.DS_Store
+
+.DS_Store
+
+resources/secrets.edn
