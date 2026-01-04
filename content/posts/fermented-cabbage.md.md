@@ -21,7 +21,7 @@ keywords:
 description: Comprehensive guide to choosing, preparing, fermenting, and storing pickled cabbage, highlighting quality signs, salt balance, fermentation conditions, benefits, and potential risks.
 ---
 
-# Fermented Cabbage: Pro Tips from the Pros
+# Fermented Cabbage: Pro Tips
 
 It is an honour to introduce this simple yet unique product – delicious, affordable, beneficial, and science-based. Fermented cabbage is familiar to many Eastern Europeans from childhood; it is a traditional Ukrainian dish rich in nutrients and supportive of the human microbiome.
 
@@ -39,7 +39,7 @@ Good fermented cabbage should be crunchy, moderately salted, and neither dry nor
 
 The short answer: anytime you have cabbage.
 
-Traditionally, fermented cabbage was prepared in autumn and stored in large barrels—simply because this was the most convenient time and method. However, it can be prepared at any time of the year, and the season does not significantly affect its taste or quality.
+Traditionally, fermented cabbage was prepared in autumn and stored in large barrels – simply because this was the most convenient time and method. However, it can be prepared at any time of the year, and the season does not significantly affect its taste or quality.
 
 **What should you start with, and how do you choose the right cabbage?**
 
@@ -49,17 +49,17 @@ Technically, lactic acid bacteria are a **saccharolytic** group of microorganism
 
 First, carefully inspect the cabbage and decisively reject any heads showing even the slightest damage, as this may indicate mould or other contamination.
 
-Next, prepare clean equipment—a fermentation vessel or jar, a shredder or knife, and bowls. All utensils should be thoroughly washed and completely dried before starting.
+Next, prepare clean equipment – a fermentation vessel or jar, a shredder or knife, and bowls. All utensils should be thoroughly washed and completely dried before starting.
 
 And, of course, wash your hands thoroughly or use fresh, clean gloves. These details are very important because the product does not undergo heat treatment, and the introduction of unwanted microbiota can spoil the fermentation process.  
 
-Shred the cabbage finely into thin strips and add salt (2–2.5%, or 20–25 g of salt per kilogram of cabbage). Salt is important not only for flavour—it also inhibits the growth of unwanted microorganisms while allowing lactic acid bacteria to thrive.
+Shred the cabbage finely into thin strips and add salt (2–2.5%, or 20–25 g of salt per kilogram of cabbage). Salt is important not only for flavour – it also inhibits the growth of unwanted microorganisms while allowing lactic acid bacteria to thrive.
 
 If you like, you can add carrots for extra flavour and colour.
 
 Mix everything well and knead with clean hands until the cabbage releases its juice. This creates a comfortable environment for the beneficial microorganisms to multiply.
 
-Place the prepared mixture tightly into the fermentation container. Avoid using a container that is too wide, as a smaller surface area exposed to air helps prevent spoilage. Place something heavy on top to keep the cabbage submerged—if using a glass jar, a smaller glass filled with water works well.
+Place the prepared mixture tightly into the fermentation container. Avoid using a container that is too wide, as a smaller surface area exposed to air helps prevent spoilage. Place something heavy on top to keep the cabbage submerged – if using a glass jar, a smaller glass filled with water works well.
 
 Be careful: a glass jar can crack under too much pressure, so press the cabbage gently.
 
@@ -80,7 +80,7 @@ First, it is a raw vegetable, packed with vitamins and fiber. Second, it is a so
 
 **Can fermented cabbage be harmful sometimes?**
 
-Yes – but only in certain cases. If it’s spoiled, it can upset your stomach. Also, remember that fermented cabbage contains a fair amount of salt, especially if you’re following a low-sodium diet like DASH. Don’t worry too much, though—it still has **less salt than sausages**.
+Yes – but only in certain cases. If it’s spoiled, it can upset your stomach. Also, remember that fermented cabbage contains a fair amount of salt, especially if you’re following a low-sodium diet like DASH. Don’t worry too much, though – it still has **less salt than sausages**.
 
 Very rarely, some lactic acid bacteria can produce substances called biogenic amines. In high amounts, these might cause headaches or nausea.
 
