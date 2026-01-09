@@ -20,7 +20,7 @@ keywords:
 description: Overview of ice cream production, storage, labeling standards (DSTU), safety considerations, and tips to assess quality and avoid contamination.
 ---
 
-# About Ice Cream: Safety First
+# About Ice Cream: Safety First!
 
 The majority of all ice cream varieties can be conditionally grouped under the term "**frozen sweet dessert product**." In the classic version — based on milk, cream, butter, sugar.
 
