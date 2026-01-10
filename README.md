@@ -24,3 +24,6 @@ git add <file-to-add>
 git commit -m "Some message like: Adding fermented cabbage article"
 git push
 ```
+
+Links:
+[Markdown syntax](https://www.markdownguide.org/basic-syntax/) and [Extended Markdown Syntax](https://www.markdownguide.org/extended-syntax/)
