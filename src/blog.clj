@@ -142,12 +142,12 @@
                        [:hgroup
                         [:h2
                          [:a {:href html-path :class "contrast"} title]]
-                        [:div
-                         [:small
-                          {:style "float:right"}
-                          (->> created
-                               t/date
-                               (t/format en-formatter))]]
+                        #_[:div
+                           [:small
+                            {:style "float:right"}
+                            (->> created
+                                 t/date
+                                 (t/format en-formatter))]]
                         (h/raw introtext)]])))
 
           [:hr]])
