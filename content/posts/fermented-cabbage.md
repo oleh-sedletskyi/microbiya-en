@@ -2,7 +2,7 @@
 introtext: |-
   It is an honour to introduce this simple yet unique product – delicious, affordable, beneficial, and science-based. Fermented cabbage is familiar to many Eastern Europeans from childhood; it is a traditional Ukrainian dish rich in nutrients and supportive of the human microbiome.<br>
   It was also a pleasure to follow the research of one of my colleagues, who studies probiotic strains isolated from fermented products from different regions of Ukraine. This material was developed with her involvement as an expert.
-created: 2018-12-21
+created: 2026-01-01
 title: "Fermented Cabbage: Pro Tips"
 alias: fermented-cabbage
 date: 21 December 2018

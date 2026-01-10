@@ -10,6 +10,8 @@ images: []
 #  Contacts
 
 <p><span><em><strong>Questions? Ideas?</strong></em></span></p>
-<p><span><em><strong>Don't hesitate to reach out megamicra@gmail.com</strong></em></span></p>
-
+Don't hesitate to reach out:
+<button onclick="this.textContent='megamicra@gmail.com'">
+  Click to reveal email
+</button>
 
