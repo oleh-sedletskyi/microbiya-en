@@ -1,7 +1,5 @@
 ---
-introtext: |-
-  It is an honour to introduce this simple yet unique product – delicious, affordable, beneficial, and science-based. Fermented cabbage is familiar to many Eastern Europeans from childhood; it is a traditional Ukrainian dish rich in nutrients and supportive of the human microbiome.<br>
-  It was also a pleasure to follow the research of one of my colleagues, who studies probiotic strains isolated from fermented products from different regions of Ukraine. This material was developed with her involvement as an expert.
+introtext: Delicious, affordable, beneficial, and science-based
 created: 2026-01-01
 title: "Fermented Cabbage: Pro Tips"
 alias: fermented-cabbage
@@ -10,12 +8,10 @@ images:
   - "![](../images/kvashena-kapusta.jpg)"
 keywords:
   - pickled cabbage
-  - kvashenaya kapusta
   - lactic acid bacteria
   - fermentation
   - home fermentation
   - refrigeration storage
-  - carrots optional
   - cabbage selection
   - probiotic nutrition
 description: Comprehensive guide to choosing, preparing, fermenting, and storing pickled cabbage, highlighting quality signs, salt balance, fermentation conditions, benefits, and potential risks.
@@ -23,9 +19,7 @@ description: Comprehensive guide to choosing, preparing, fermenting, and storing
 
 # Fermented Cabbage: Pro Tips
 
-It is an honour to introduce this simple yet unique product – delicious, affordable, beneficial, and science-based. Fermented cabbage is familiar to many Eastern Europeans from childhood; it is a traditional Ukrainian dish rich in nutrients and supportive of the human microbiome.
-
-It was also a pleasure to follow the research of one of my colleagues, who studies probiotic strains isolated from fermented products from different regions of Ukraine. This material was developed with her involvement as an expert.
+Delicious, affordable, beneficial, and science-based.
 
 **So, what is fermented cabbage?**
 
@@ -45,7 +39,7 @@ Traditionally, fermented cabbage was prepared in autumn and stored in large barr
 
 Choosing the right cabbage is essential. White cabbage is the best option, as it contains relatively high levels of natural sugars. This is an important factor for lactic acid bacteria, which rely on sugars as their primary energy source.
 
-Technically, lactic acid bacteria are a **saccharolytic** group of microorganisms that convert sugars into organic acids during fermentation.
+Technically, lactic acid bacteria are a saccharolytic group of microorganisms that convert sugars into organic acids during fermentation.
 
 First, carefully inspect the cabbage and decisively reject any heads showing even the slightest damage, as this may indicate mould or other contamination.
 
@@ -63,7 +57,7 @@ Place the prepared mixture tightly into the fermentation container. Avoid using 
 
 Be careful: a glass jar can crack under too much pressure, so press the cabbage gently.
 
-Remind yourself once more: the cabbage should be fully submerged in its juice. This prevents oxygen from entering and creates the ideal environment for lactic acid bacteria to do their work.
+Important: the cabbage should be fully submerged in its juice. This prevents oxygen from entering and creates the ideal environment for lactic acid bacteria to do their job.
 
 Place the containers in a warm spot (but not above 32°C; near a radiator works fine) for 2–3 days, and your fermented cabbage will be ready. The fermentation will also occur at lower temperatures, but it may take a bit longer.
 
@@ -72,7 +66,7 @@ Do not stir the cabbage during the process, as this can introduce unwanted oxyge
 **How long can you keep your fermented cabbage, and how?**
 Keep your fermented cabbage somewhere cool – below 10°C – but don’t let it freeze.
 
-The great thing about fermented cabbage is that it lasts a long time! Stored in the fridge or any cool spot, it can stay fresh for up to six months. Why so long? During fermentation, lactic acid bacteria multiply and produce lactic acid and hydrogen peroxide, which naturally preserve the cabbage and keep harmful microbes like _E. coli_, _Staphylococcus_, molud, and many others under control.
+The great thing about fermented cabbage is that it lasts a long time! Stored in the fridge or any cool spot, it can stay fresh for up to six months. Why so long? During fermentation, lactic acid bacteria multiply and produce lactic acid and hydrogen peroxide, which naturally preserve the cabbage and keep harmful microbes like _E. coli_, _Staphylococcus_, mould, and many others under control.
 
 **How is fermented cabbage beneficial?**
 
