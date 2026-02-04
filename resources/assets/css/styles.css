@@ -1,0 +1,28 @@
+nav ul li details.dropdown summary {
+    width: fit-content !important;
+    display: inline-flex;
+    margin-bottom: 0;
+}
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1rem 0;
+    }
+    nav ul {
+        flex-direction: column;
+        width: 100%;
+        padding: 0;
+    }
+    nav ul:first-of-type {
+        margin-bottom: 0.5rem;
+    }
+    nav ul li {
+        width: 100%;
+        padding: 0.5rem 0;
+    }
+    nav ul li details.dropdown {
+        display: inline-block;
+        width: auto;
+    }
+}
