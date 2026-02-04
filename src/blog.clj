@@ -3,7 +3,7 @@
    [ai]
    [clj-yaml.core :as yaml]
    [clojure.string :as str]
-   [com.climate.claypoole :as cp]
+   ;; [com.climate.claypoole :as cp]
    [cuerdas.core :as cstr]
    [files :as file]
    [hiccup2.core :as h]
@@ -111,7 +111,7 @@
     (->> files
          (map parse-md-file)
          (remove #(seq (get-in % [:metadata :keywords])))
-         (cp/pmap 4 add-keywords-description!))))
+         (mapv add-keywords-description!))))
 
 (defn process-posts
   [{:keys [local?]}]

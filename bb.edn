@@ -1,13 +1,15 @@
 {:paths ["src" "resources"]
  :deps {markdown-clj/markdown-clj {:mvn/version "1.12.3"}
         io.github.escherize/huff {:mvn/version "0.2.13"}
-        tick/tick {:mvn/version "1.0"}}
+        tick/tick {:mvn/version "1.0"}
+        funcool/cuerdas {:mvn/version "2025.05.26-411"}}
  :pods {org.babashka/fswatcher {:version "0.0.5"}}
- :tasks {build {:requires [[babashka.fs :as fs]]
+ :tasks {build {:requires [[babashka.fs :as fs]
+                           [blog :as blog]]
                 :task
                 (do
                   (println "Building...")
-                  (shell "clojure -X blog/process-posts")
+                  (blog/process-posts {})
                   (fs/create-dirs "static")
                   (fs/copy-tree "./public" "static" {:replace-existing true})
                   (fs/copy-tree "./resources/assets" "static" {:replace-existing true})
