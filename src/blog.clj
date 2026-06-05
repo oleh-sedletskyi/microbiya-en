@@ -140,7 +140,7 @@
                (map (fn [{:keys [introtext created title html-path]}]
                       [:section
                        [:hgroup
-                        [:h2
+                        [:h5
                          [:a {:href html-path :class "contrast"} title]]
                         #_[:div
                            [:small
