@@ -137,18 +137,13 @@
     (-> (h/html
          [:main {:class "container"}
           (->> metadata
-               (map (fn [{:keys [introtext created title html-path]}]
+               (map (fn [{:keys [introtext title html-path]}]
                       [:section
-                       [:hgroup
-                        [:h5
-                         [:a {:href html-path :class "contrast"} title]]
-                        #_[:div
-                           [:small
-                            {:style "float:right"}
-                            (->> created
-                                 t/date
-                                 (t/format en-formatter))]]
-                        (h/raw introtext)]])))
+                       [:header {:style "display:flex; gap:1rem;"}
+                        [:h5 {:style "margin-bottom:0"}
+                         [:a {:href html-path :class "contrast"} title]]]
+                       (h/raw introtext)
+                       [:hr]])))
 
           [:hr]])
         str
