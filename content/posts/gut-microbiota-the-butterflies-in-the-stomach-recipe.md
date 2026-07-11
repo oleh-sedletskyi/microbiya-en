@@ -1,5 +1,5 @@
 ---
-introtext: 'The lion’s share of our microbiome is concentrated in our gut  - where it is warm, cozy, and constantly supplied with fresh tasty food. Heaven on earth.                   The surface area of our digestive tract is estimated to be <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6388077/">spans</a> 250-400 m<sup>2</sup>, which is two orders of magnitude larger than the surface area of our skin. In fact, this entire area is covered by a biofilm of microorganisms and serves as a vast interface for interaction between our body and microbes. For a long time, it was believed (and this view is still occasionally encountered) that the number of microbial cells inhabiting our body was ten times greater than the number of our own cells.  <a href="https://www.nature.com/news/scientists-bust-myth-that-our-bodies-have-more-bacteria-than-human-cells-1.19136">More recent estimates </a> suggest that this ratio is smaller - closer to 3:1 or even 1:1. The highest microbial density is found in the colon: one gram of its contents contains up to 10<sup>12</sup> tiny microbes.'
+introtext: How to maintain your gut zen?
 created: 2026-01-09
 title: "Gut Microbiota: The Recipe for Butterflies in the Stomach"
 alias: gut-microbiota-the-butterflies-in-the-stomach-recipe
