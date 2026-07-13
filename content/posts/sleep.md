@@ -34,7 +34,7 @@ During sleep, the brain consolidates newly acquired information and memories. [I
 
 Short sleep duration is associated with increased obesity risk. Meta-analyses show that adults with insufficient sleep have about 25–45% [higher odds of obesity](https://pubmed.ncbi.nlm.nih.gov/25450058/) compared with those sleeping a normal duration.
 
-Sleep deprivation [raises levels of ghrelin](https://pubmed.ncbi.nlm.nih.gov/15583226/) (the hunger hormone) while lowering levels of leptin (the satiety hormone). It also reduces cellular sensitivity to insulin, which contributes to the d[[]]evelopment of metabolic disorders.
+Sleep deprivation [raises levels of ghrelin](https://pubmed.ncbi.nlm.nih.gov/15583226/) (the hunger hormone) while lowering levels of leptin (the satiety hormone). It also reduces cellular sensitivity to insulin, which contributes to the development of metabolic disorders.
 
 **Lack of sleep accelerates aging and contributes to visible signs of aging**
 
